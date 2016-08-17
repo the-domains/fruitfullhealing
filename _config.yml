@@ -1,5 +1,4 @@
-layout_spectrum: 0.5927318
-typography_spectrum: 0.7543859
+layout_spectrum: 0.9373434
 color:
   saturation: 0.2895447
   lightness: 0.2330453
@@ -11,4 +10,5 @@ color:
     - '#D9330B'
     - '#72908D'
   rhythmicContrast: 0.6058733
+typography_spectrum: 0.7543859
 name: Fruitfullhealing
